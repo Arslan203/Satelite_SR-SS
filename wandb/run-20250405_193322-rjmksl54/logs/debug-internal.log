@@ -1,0 +1,16 @@
+{"time":"2025-04-05T19:33:22.567953+03:00","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/neos/vkr/wandb/run-20250405_193322-rjmksl54/logs/debug-core.log"}
+{"time":"2025-04-05T19:33:22.780779897+03:00","level":"INFO","msg":"created new stream","id":"rjmksl54"}
+{"time":"2025-04-05T19:33:22.780830407+03:00","level":"INFO","msg":"stream: started","id":"rjmksl54"}
+{"time":"2025-04-05T19:33:22.780951346+03:00","level":"INFO","msg":"writer: Do: started","stream_id":"rjmksl54"}
+{"time":"2025-04-05T19:33:22.781068796+03:00","level":"INFO","msg":"sender: started","stream_id":"rjmksl54"}
+{"time":"2025-04-05T19:33:22.781171326+03:00","level":"INFO","msg":"handler: started","stream_id":"rjmksl54"}
+{"time":"2025-04-05T19:33:23.288449049+03:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-05T19:33:25.284519989+03:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-05T19:33:53.503480674+03:00","level":"INFO","msg":"stream: closing","id":"rjmksl54"}
+{"time":"2025-04-05T19:33:53.504254091+03:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-05T19:33:53.505287827+03:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-05T19:33:55.197308899+03:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-04-05T19:33:55.575887744+03:00","level":"INFO","msg":"handler: closed","stream_id":"rjmksl54"}
+{"time":"2025-04-05T19:33:55.575936794+03:00","level":"INFO","msg":"writer: Close: closed","stream_id":"rjmksl54"}
+{"time":"2025-04-05T19:33:55.575961904+03:00","level":"INFO","msg":"sender: closed","stream_id":"rjmksl54"}
+{"time":"2025-04-05T19:33:55.576019084+03:00","level":"INFO","msg":"stream: closed","id":"rjmksl54"}

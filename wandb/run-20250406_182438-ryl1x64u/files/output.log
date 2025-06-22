@@ -1,0 +1,159 @@
+Saved evaluation predictions to: outputs_DeepLab/eval_predict/step_100
+Saved evaluation predictions to: outputs_DeepLab/eval_predict/step_200
+Saved evaluation predictions to: outputs_DeepLab/eval_predict/step_300
+Saved evaluation predictions to: outputs_DeepLab/eval_predict/step_400
+Saved evaluation predictions to: outputs_DeepLab/eval_predict/step_500
+Saved evaluation predictions to: outputs_DeepLab/eval_predict/step_600
+Saved evaluation predictions to: outputs_DeepLab/eval_predict/step_700
+Saved evaluation predictions to: outputs_DeepLab/eval_predict/step_800
+Saved evaluation predictions to: outputs_DeepLab/eval_predict/step_900
+Saved evaluation predictions to: outputs_DeepLab/eval_predict/step_1000
+[34m[1mwandb[0m: Adding directory to artifact (./outputs_DeepLab/checkpoints/checkpoint-1000)... Done. 0.7s
+Saved evaluation predictions to: outputs_DeepLab/eval_predict/step_1100
+Saved evaluation predictions to: outputs_DeepLab/eval_predict/step_1200
+Saved evaluation predictions to: outputs_DeepLab/eval_predict/step_1300
+Saved evaluation predictions to: outputs_DeepLab/eval_predict/step_1400
+Saved evaluation predictions to: outputs_DeepLab/eval_predict/step_1500
+Saved evaluation predictions to: outputs_DeepLab/eval_predict/step_1600
+Saved evaluation predictions to: outputs_DeepLab/eval_predict/step_1700
+Saved evaluation predictions to: outputs_DeepLab/eval_predict/step_1800
+Saved evaluation predictions to: outputs_DeepLab/eval_predict/step_1900
+Saved evaluation predictions to: outputs_DeepLab/eval_predict/step_2000
+[34m[1mwandb[0m: Adding directory to artifact (./outputs_DeepLab/checkpoints/checkpoint-2000)... Done. 0.1s
+Saved evaluation predictions to: outputs_DeepLab/eval_predict/step_2100
+Saved evaluation predictions to: outputs_DeepLab/eval_predict/step_2200
+Saved evaluation predictions to: outputs_DeepLab/eval_predict/step_2300
+Saved evaluation predictions to: outputs_DeepLab/eval_predict/step_2400
+Saved evaluation predictions to: outputs_DeepLab/eval_predict/step_2500
+Saved evaluation predictions to: outputs_DeepLab/eval_predict/step_2600
+Saved evaluation predictions to: outputs_DeepLab/eval_predict/step_2700
+Saved evaluation predictions to: outputs_DeepLab/eval_predict/step_2800
+Saved evaluation predictions to: outputs_DeepLab/eval_predict/step_2900
+Saved evaluation predictions to: outputs_DeepLab/eval_predict/step_3000
+[34m[1mwandb[0m: Adding directory to artifact (./outputs_DeepLab/checkpoints/checkpoint-3000)... Done. 0.1s
+Saved evaluation predictions to: outputs_DeepLab/eval_predict/step_3100
+Saved evaluation predictions to: outputs_DeepLab/eval_predict/step_3200
+Saved evaluation predictions to: outputs_DeepLab/eval_predict/step_3300
+Saved evaluation predictions to: outputs_DeepLab/eval_predict/step_3400
+Saved evaluation predictions to: outputs_DeepLab/eval_predict/step_3500
+Saved evaluation predictions to: outputs_DeepLab/eval_predict/step_3600
+Saved evaluation predictions to: outputs_DeepLab/eval_predict/step_3700
+Saved evaluation predictions to: outputs_DeepLab/eval_predict/step_3800
+Saved evaluation predictions to: outputs_DeepLab/eval_predict/step_3900
+Saved evaluation predictions to: outputs_DeepLab/eval_predict/step_4000
+[34m[1mwandb[0m: Adding directory to artifact (./outputs_DeepLab/checkpoints/checkpoint-4000)... Done. 0.1s
+Saved evaluation predictions to: outputs_DeepLab/eval_predict/step_4100
+Saved evaluation predictions to: outputs_DeepLab/eval_predict/step_4200
+Saved evaluation predictions to: outputs_DeepLab/eval_predict/step_4300
+Saved evaluation predictions to: outputs_DeepLab/eval_predict/step_4400
+Saved evaluation predictions to: outputs_DeepLab/eval_predict/step_4500
+Saved evaluation predictions to: outputs_DeepLab/eval_predict/step_4600
+Saved evaluation predictions to: outputs_DeepLab/eval_predict/step_4700
+Saved evaluation predictions to: outputs_DeepLab/eval_predict/step_4800
+Saved evaluation predictions to: outputs_DeepLab/eval_predict/step_4900
+Saved evaluation predictions to: outputs_DeepLab/eval_predict/step_5000
+[34m[1mwandb[0m: Adding directory to artifact (./outputs_DeepLab/checkpoints/checkpoint-5000)... Done. 0.1s
+Saved evaluation predictions to: outputs_DeepLab/eval_predict/step_5100
+Saved evaluation predictions to: outputs_DeepLab/eval_predict/step_5200
+Saved evaluation predictions to: outputs_DeepLab/eval_predict/step_5300
+Saved evaluation predictions to: outputs_DeepLab/eval_predict/step_5400
+Saved evaluation predictions to: outputs_DeepLab/eval_predict/step_5500
+Saved evaluation predictions to: outputs_DeepLab/eval_predict/step_5600
+Saved evaluation predictions to: outputs_DeepLab/eval_predict/step_5700
+Saved evaluation predictions to: outputs_DeepLab/eval_predict/step_5800
+Saved evaluation predictions to: outputs_DeepLab/eval_predict/step_5900
+Saved evaluation predictions to: outputs_DeepLab/eval_predict/step_6000
+[34m[1mwandb[0m: Adding directory to artifact (./outputs_DeepLab/checkpoints/checkpoint-6000)... Done. 0.1s
+Saved evaluation predictions to: outputs_DeepLab/eval_predict/step_6100
+Saved evaluation predictions to: outputs_DeepLab/eval_predict/step_6200
+Saved evaluation predictions to: outputs_DeepLab/eval_predict/step_6300
+Saved evaluation predictions to: outputs_DeepLab/eval_predict/step_6400
+Saved evaluation predictions to: outputs_DeepLab/eval_predict/step_6500
+Saved evaluation predictions to: outputs_DeepLab/eval_predict/step_6600
+Saved evaluation predictions to: outputs_DeepLab/eval_predict/step_6700
+Saved evaluation predictions to: outputs_DeepLab/eval_predict/step_6800
+Saved evaluation predictions to: outputs_DeepLab/eval_predict/step_6900
+Saved evaluation predictions to: outputs_DeepLab/eval_predict/step_7000
+[34m[1mwandb[0m: Adding directory to artifact (./outputs_DeepLab/checkpoints/checkpoint-7000)... Done. 0.1s
+Saved evaluation predictions to: outputs_DeepLab/eval_predict/step_7100
+Saved evaluation predictions to: outputs_DeepLab/eval_predict/step_7200
+Saved evaluation predictions to: outputs_DeepLab/eval_predict/step_7300
+Saved evaluation predictions to: outputs_DeepLab/eval_predict/step_7400
+Saved evaluation predictions to: outputs_DeepLab/eval_predict/step_7500
+Saved evaluation predictions to: outputs_DeepLab/eval_predict/step_7600
+Saved evaluation predictions to: outputs_DeepLab/eval_predict/step_7700
+Saved evaluation predictions to: outputs_DeepLab/eval_predict/step_7800
+Saved evaluation predictions to: outputs_DeepLab/eval_predict/step_7900
+Saved evaluation predictions to: outputs_DeepLab/eval_predict/step_8000
+[34m[1mwandb[0m: Adding directory to artifact (./outputs_DeepLab/checkpoints/checkpoint-8000)... Done. 0.1s
+Saved evaluation predictions to: outputs_DeepLab/eval_predict/step_8100
+Saved evaluation predictions to: outputs_DeepLab/eval_predict/step_8200
+Saved evaluation predictions to: outputs_DeepLab/eval_predict/step_8300
+Saved evaluation predictions to: outputs_DeepLab/eval_predict/step_8400
+Saved evaluation predictions to: outputs_DeepLab/eval_predict/step_8500
+Saved evaluation predictions to: outputs_DeepLab/eval_predict/step_8600
+Saved evaluation predictions to: outputs_DeepLab/eval_predict/step_8700
+Saved evaluation predictions to: outputs_DeepLab/eval_predict/step_8800
+Saved evaluation predictions to: outputs_DeepLab/eval_predict/step_8900
+Saved evaluation predictions to: outputs_DeepLab/eval_predict/step_9000
+[34m[1mwandb[0m: Adding directory to artifact (./outputs_DeepLab/checkpoints/checkpoint-9000)... Done. 0.1s
+Saved evaluation predictions to: outputs_DeepLab/eval_predict/step_9100
+Saved evaluation predictions to: outputs_DeepLab/eval_predict/step_9200
+Saved evaluation predictions to: outputs_DeepLab/eval_predict/step_9300
+Saved evaluation predictions to: outputs_DeepLab/eval_predict/step_9400
+Saved evaluation predictions to: outputs_DeepLab/eval_predict/step_9500
+Saved evaluation predictions to: outputs_DeepLab/eval_predict/step_9600
+Saved evaluation predictions to: outputs_DeepLab/eval_predict/step_9700
+Saved evaluation predictions to: outputs_DeepLab/eval_predict/step_9800
+Saved evaluation predictions to: outputs_DeepLab/eval_predict/step_9900
+Saved evaluation predictions to: outputs_DeepLab/eval_predict/step_10000
+[34m[1mwandb[0m: Adding directory to artifact (./outputs_DeepLab/checkpoints/checkpoint-10000)... Done. 0.1s
+Saved evaluation predictions to: outputs_DeepLab/eval_predict/step_10100
+Saved evaluation predictions to: outputs_DeepLab/eval_predict/step_10200
+Saved evaluation predictions to: outputs_DeepLab/eval_predict/step_10300
+Saved evaluation predictions to: outputs_DeepLab/eval_predict/step_10400
+Saved evaluation predictions to: outputs_DeepLab/eval_predict/step_10500
+Saved evaluation predictions to: outputs_DeepLab/eval_predict/step_10600
+Saved evaluation predictions to: outputs_DeepLab/eval_predict/step_10700
+Saved evaluation predictions to: outputs_DeepLab/eval_predict/step_10800
+Saved evaluation predictions to: outputs_DeepLab/eval_predict/step_10900
+Saved evaluation predictions to: outputs_DeepLab/eval_predict/step_11000
+[34m[1mwandb[0m: Adding directory to artifact (./outputs_DeepLab/checkpoints/checkpoint-11000)... Done. 0.1s
+Saved evaluation predictions to: outputs_DeepLab/eval_predict/step_11100
+Saved evaluation predictions to: outputs_DeepLab/eval_predict/step_11200
+Saved evaluation predictions to: outputs_DeepLab/eval_predict/step_11300
+Saved evaluation predictions to: outputs_DeepLab/eval_predict/step_11400
+Saved evaluation predictions to: outputs_DeepLab/eval_predict/step_11500
+Saved evaluation predictions to: outputs_DeepLab/eval_predict/step_11600
+Saved evaluation predictions to: outputs_DeepLab/eval_predict/step_11700
+Saved evaluation predictions to: outputs_DeepLab/eval_predict/step_11800
+Saved evaluation predictions to: outputs_DeepLab/eval_predict/step_11900
+Saved evaluation predictions to: outputs_DeepLab/eval_predict/step_12000
+[34m[1mwandb[0m: Adding directory to artifact (./outputs_DeepLab/checkpoints/checkpoint-12000)... Done. 0.1s
+Saved evaluation predictions to: outputs_DeepLab/eval_predict/step_12100
+Saved evaluation predictions to: outputs_DeepLab/eval_predict/step_12200
+Saved evaluation predictions to: outputs_DeepLab/eval_predict/step_12300
+Saved evaluation predictions to: outputs_DeepLab/eval_predict/step_12400
+Saved evaluation predictions to: outputs_DeepLab/eval_predict/step_12500
+Saved evaluation predictions to: outputs_DeepLab/eval_predict/step_12600
+Saved evaluation predictions to: outputs_DeepLab/eval_predict/step_12700
+Saved evaluation predictions to: outputs_DeepLab/eval_predict/step_12800
+Saved evaluation predictions to: outputs_DeepLab/eval_predict/step_12900
+Saved evaluation predictions to: outputs_DeepLab/eval_predict/step_13000
+[34m[1mwandb[0m: Adding directory to artifact (./outputs_DeepLab/checkpoints/checkpoint-13000)... Done. 0.1s
+--- Logging error ---
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/logging/__init__.py", line 1104, in emit
+    self.flush()
+  File "/usr/lib/python3.10/logging/__init__.py", line 1084, in flush
+    self.stream.flush()
+OSError: [Errno 5] Input/output error
+Call stack:
+  File "/usr/lib/python3.10/threading.py", line 973, in _bootstrap
+    self._bootstrap_inner()
+  File "/usr/lib/python3.10/threading.py", line 1016, in _bootstrap_inner
+    self.run()
+  File "/home/neos/.local/lib/python3.10/site-packages/ipykernel/parentpoller.py", line 38, in run
+    get_logger().warning("Parent appears to have exited, shutting down.")
+Message: 'Parent appears to have exited, shutting down.'
+Arguments: ()

@@ -1,0 +1,15 @@
+{"time":"2025-03-17T18:50:43.330955024+03:00","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/neos/vkr/wandb/run-20250317_185043-mhxuipor/logs/debug-core.log"}
+{"time":"2025-03-17T18:50:43.544024224+03:00","level":"INFO","msg":"created new stream","id":"mhxuipor"}
+{"time":"2025-03-17T18:50:43.544091264+03:00","level":"INFO","msg":"stream: started","id":"mhxuipor"}
+{"time":"2025-03-17T18:50:43.544220274+03:00","level":"INFO","msg":"writer: Do: started","stream_id":"mhxuipor"}
+{"time":"2025-03-17T18:50:43.544252144+03:00","level":"INFO","msg":"sender: started","stream_id":"mhxuipor"}
+{"time":"2025-03-17T18:50:43.544291594+03:00","level":"INFO","msg":"handler: started","stream_id":"mhxuipor"}
+{"time":"2025-03-17T18:50:43.923574054+03:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T22:34:48.316623714+03:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-17T22:35:22.273396424+03:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-17T22:35:23.170338584+03:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-17T22:37:17.345231834+03:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-17T22:37:18.177700524+03:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-17T22:38:15.722154714+03:00","level":"INFO","msg":"stream: closing","id":"mhxuipor"}
+{"time":"2025-03-17T22:38:15.722194344+03:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T22:38:15.723299984+03:00","level":"INFO","msg":"Stopped system monitor"}

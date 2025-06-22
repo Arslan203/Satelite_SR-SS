@@ -1,0 +1,11 @@
+{"time":"2025-03-18T02:32:15.444005574+03:00","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/neos/vkr/wandb/run-20250318_023215-bx6ua0he/logs/debug-core.log"}
+{"time":"2025-03-18T02:32:15.656385124+03:00","level":"INFO","msg":"created new stream","id":"bx6ua0he"}
+{"time":"2025-03-18T02:32:15.656476674+03:00","level":"INFO","msg":"stream: started","id":"bx6ua0he"}
+{"time":"2025-03-18T02:32:15.656658834+03:00","level":"INFO","msg":"handler: started","stream_id":"bx6ua0he"}
+{"time":"2025-03-18T02:32:15.657096224+03:00","level":"INFO","msg":"sender: started","stream_id":"bx6ua0he"}
+{"time":"2025-03-18T02:32:15.657117684+03:00","level":"INFO","msg":"writer: Do: started","stream_id":"bx6ua0he"}
+{"time":"2025-03-18T02:32:16.050239104+03:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-18T02:38:27.470321854+03:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-18T02:38:28.252923554+03:00","level":"INFO","msg":"stream: closing","id":"bx6ua0he"}
+{"time":"2025-03-18T02:38:28.252958124+03:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-18T02:38:28.253954304+03:00","level":"INFO","msg":"Stopped system monitor"}

@@ -1,0 +1,16 @@
+{"time":"2025-03-17T13:58:50.662281264+03:00","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/neos/vkr/wandb/run-20250317_135850-xexg57jc/logs/debug-core.log"}
+{"time":"2025-03-17T13:58:50.874187614+03:00","level":"INFO","msg":"created new stream","id":"xexg57jc"}
+{"time":"2025-03-17T13:58:50.874244854+03:00","level":"INFO","msg":"stream: started","id":"xexg57jc"}
+{"time":"2025-03-17T13:58:50.874323354+03:00","level":"INFO","msg":"writer: Do: started","stream_id":"xexg57jc"}
+{"time":"2025-03-17T13:58:50.874381774+03:00","level":"INFO","msg":"handler: started","stream_id":"xexg57jc"}
+{"time":"2025-03-17T13:58:50.874478424+03:00","level":"INFO","msg":"sender: started","stream_id":"xexg57jc"}
+{"time":"2025-03-17T13:58:51.410293534+03:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T13:59:09.803293364+03:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-17T14:03:31.562134904+03:00","level":"INFO","msg":"stream: closing","id":"xexg57jc"}
+{"time":"2025-03-17T14:03:31.562183934+03:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T14:03:31.563478844+03:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T14:03:32.729002454+03:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T14:03:33.071924314+03:00","level":"INFO","msg":"handler: closed","stream_id":"xexg57jc"}
+{"time":"2025-03-17T14:03:33.071966074+03:00","level":"INFO","msg":"writer: Close: closed","stream_id":"xexg57jc"}
+{"time":"2025-03-17T14:03:33.072004474+03:00","level":"INFO","msg":"sender: closed","stream_id":"xexg57jc"}
+{"time":"2025-03-17T14:03:33.072068304+03:00","level":"INFO","msg":"stream: closed","id":"xexg57jc"}

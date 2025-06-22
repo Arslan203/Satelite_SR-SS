@@ -1,0 +1,20 @@
+{"time":"2025-03-17T16:55:49.165774434+03:00","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/neos/vkr/wandb/run-20250317_165549-hin95jab/logs/debug-core.log"}
+{"time":"2025-03-17T16:55:49.479284984+03:00","level":"INFO","msg":"created new stream","id":"hin95jab"}
+{"time":"2025-03-17T16:55:49.479339784+03:00","level":"INFO","msg":"stream: started","id":"hin95jab"}
+{"time":"2025-03-17T16:55:49.479405484+03:00","level":"INFO","msg":"writer: Do: started","stream_id":"hin95jab"}
+{"time":"2025-03-17T16:55:49.479433974+03:00","level":"INFO","msg":"sender: started","stream_id":"hin95jab"}
+{"time":"2025-03-17T16:55:49.479492744+03:00","level":"INFO","msg":"handler: started","stream_id":"hin95jab"}
+{"time":"2025-03-17T16:55:49.891649784+03:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T16:56:38.499144654+03:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-17T16:59:03.993158614+03:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-17T16:59:07.483667584+03:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-17T16:59:10.548356834+03:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-17T16:59:10.549270564+03:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-17T16:59:11.777057944+03:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-17T17:05:40.385714804+03:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-17T17:05:42.860555524+03:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-17T17:05:51.170629194+03:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-17T17:06:46.145028024+03:00","level":"INFO","msg":"stream: closing","id":"hin95jab"}
+{"time":"2025-03-17T17:06:46.145131964+03:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T17:06:46.146550104+03:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T17:06:48.092950544+03:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}

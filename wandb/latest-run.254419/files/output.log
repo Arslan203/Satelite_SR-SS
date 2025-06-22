@@ -1,0 +1,40 @@
+Saved evaluation predictions to: outputs_custom_stat/eval_predict/step_1000
+Saved evaluation predictions to: outputs_custom_stat/eval_predict/step_2000
+Saved evaluation predictions to: outputs_custom_stat/eval_predict/step_3000
+Saved evaluation predictions to: outputs_custom_stat/eval_predict/step_4000
+Saved evaluation predictions to: outputs_custom_stat/eval_predict/step_5000
+[34m[1mwandb[0m: Adding directory to artifact (./outputs_custom_stat/checkpoints/checkpoint-5000)... Done. 0.1s
+Saved evaluation predictions to: outputs_custom_stat/eval_predict/step_6000
+Saved evaluation predictions to: outputs_custom_stat/eval_predict/step_7000
+Saved evaluation predictions to: outputs_custom_stat/eval_predict/step_8000
+Saved evaluation predictions to: outputs_custom_stat/eval_predict/step_9000
+Saved evaluation predictions to: outputs_custom_stat/eval_predict/step_10000
+[34m[1mwandb[0m: Adding directory to artifact (./outputs_custom_stat/checkpoints/checkpoint-10000)... Done. 0.1s
+Saved evaluation predictions to: outputs_custom_stat/eval_predict/step_11000
+Saved evaluation predictions to: outputs_custom_stat/eval_predict/step_12000
+Saved evaluation predictions to: outputs_custom_stat/eval_predict/step_13000
+Saved evaluation predictions to: outputs_custom_stat/eval_predict/step_14000
+Saved evaluation predictions to: outputs_custom_stat/eval_predict/step_15000
+[34m[1mwandb[0m: Adding directory to artifact (./outputs_custom_stat/checkpoints/checkpoint-15000)... Done. 0.1s
+Saved evaluation predictions to: outputs_custom_stat/eval_predict/step_16000
+Saved evaluation predictions to: outputs_custom_stat/eval_predict/step_17000
+Saved evaluation predictions to: outputs_custom_stat/eval_predict/step_18000
+Saved evaluation predictions to: outputs_custom_stat/eval_predict/step_19000
+Saved evaluation predictions to: outputs_custom_stat/eval_predict/step_20000
+[34m[1mwandb[0m: Adding directory to artifact (./outputs_custom_stat/checkpoints/checkpoint-20000)... Done. 0.1s
+--- Logging error ---
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/logging/__init__.py", line 1104, in emit
+    self.flush()
+  File "/usr/lib/python3.10/logging/__init__.py", line 1084, in flush
+    self.stream.flush()
+OSError: [Errno 5] Input/output error
+Call stack:
+  File "/usr/lib/python3.10/threading.py", line 973, in _bootstrap
+    self._bootstrap_inner()
+  File "/usr/lib/python3.10/threading.py", line 1016, in _bootstrap_inner
+    self.run()
+  File "/home/neos/.local/lib/python3.10/site-packages/ipykernel/parentpoller.py", line 38, in run
+    get_logger().warning("Parent appears to have exited, shutting down.")
+Message: 'Parent appears to have exited, shutting down.'
+Arguments: ()

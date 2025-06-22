@@ -1,0 +1,11 @@
+{"time":"2025-03-18T20:39:08.533652224+03:00","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/neos/vkr/wandb/run-20250318_203908-w6ldjcos/logs/debug-core.log"}
+{"time":"2025-03-18T20:39:08.747199384+03:00","level":"INFO","msg":"created new stream","id":"w6ldjcos"}
+{"time":"2025-03-18T20:39:08.747276264+03:00","level":"INFO","msg":"stream: started","id":"w6ldjcos"}
+{"time":"2025-03-18T20:39:08.747340224+03:00","level":"INFO","msg":"writer: Do: started","stream_id":"w6ldjcos"}
+{"time":"2025-03-18T20:39:08.747416624+03:00","level":"INFO","msg":"sender: started","stream_id":"w6ldjcos"}
+{"time":"2025-03-18T20:39:08.747465584+03:00","level":"INFO","msg":"handler: started","stream_id":"w6ldjcos"}
+{"time":"2025-03-18T20:39:09.143076714+03:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-18T20:53:56.326932654+03:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-18T20:53:56.891854004+03:00","level":"INFO","msg":"stream: closing","id":"w6ldjcos"}
+{"time":"2025-03-18T20:53:56.891906594+03:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-18T20:53:56.893223184+03:00","level":"INFO","msg":"Stopped system monitor"}

@@ -1,0 +1,80 @@
+{
+  "os": "Linux-5.4.210-39.1.pagevecsize-x86_64-with-glibc2.35",
+  "python": "CPython 3.13.2",
+  "startedAt": "2025-03-17T10:58:50.660265Z",
+  "program": "pipeline_from_hf.ipynb",
+  "codePath": "pipeline_from_hf.ipynb",
+  "email": "arslan.valeev.73@mail.ru",
+  "root": "/home/neos/vkr",
+  "host": "ml-a100.vla.yp-c.yandex.net",
+  "executable": "/home/neos/miniconda3/envs/vkr/bin/python",
+  "codePathLocal": "pipeline_from_hf.ipynb",
+  "cpu_count": 230,
+  "cpu_count_logical": 230,
+  "gpu": "NVIDIA A100-SXM4-80GB",
+  "gpu_count": 8,
+  "disk": {
+    "/": {
+      "total": "5403697033216",
+      "used": "5085105483776"
+    }
+  },
+  "memory": {
+    "total": "942660501504"
+  },
+  "cpu": {
+    "count": 230,
+    "countLogical": 230
+  },
+  "gpu_nvidia": [
+    {
+      "name": "NVIDIA A100-SXM4-80GB",
+      "memoryTotal": "85899345920",
+      "cudaCores": 6912,
+      "architecture": "Ampere"
+    },
+    {
+      "name": "NVIDIA A100-SXM4-80GB",
+      "memoryTotal": "85899345920",
+      "cudaCores": 6912,
+      "architecture": "Ampere"
+    },
+    {
+      "name": "NVIDIA A100-SXM4-80GB",
+      "memoryTotal": "85899345920",
+      "cudaCores": 6912,
+      "architecture": "Ampere"
+    },
+    {
+      "name": "NVIDIA A100-SXM4-80GB",
+      "memoryTotal": "85899345920",
+      "cudaCores": 6912,
+      "architecture": "Ampere"
+    },
+    {
+      "name": "NVIDIA A100-SXM4-80GB",
+      "memoryTotal": "85899345920",
+      "cudaCores": 6912,
+      "architecture": "Ampere"
+    },
+    {
+      "name": "NVIDIA A100-SXM4-80GB",
+      "memoryTotal": "85899345920",
+      "cudaCores": 6912,
+      "architecture": "Ampere"
+    },
+    {
+      "name": "NVIDIA A100-SXM4-80GB",
+      "memoryTotal": "85899345920",
+      "cudaCores": 6912,
+      "architecture": "Ampere"
+    },
+    {
+      "name": "NVIDIA A100-SXM4-80GB",
+      "memoryTotal": "85899345920",
+      "cudaCores": 6912,
+      "architecture": "Ampere"
+    }
+  ],
+  "cudaVersion": "12.6"
+}

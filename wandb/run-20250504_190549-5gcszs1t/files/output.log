@@ -1,0 +1,57 @@
+[34m[1mwandb[0m: Adding directory to artifact (./outputs_final/checkpoints/checkpoint-2000)... Done. 0.2s
+[34m[1mwandb[0m: Adding directory to artifact (./outputs_final/checkpoints/checkpoint-4000)... Done. 0.2s
+[INFO] Reconstruction script reconstructionv3.py завершился успешно.
+[34m[1mwandb[0m: Adding directory to artifact (./outputs_final/checkpoints/checkpoint-6000)... Done. 0.1s
+[INFO] Reconstruction script reconstructionv3.py завершился успешно.
+[34m[1mwandb[0m: Adding directory to artifact (./outputs_final/checkpoints/checkpoint-8000)... Done. 0.1s
+[INFO] Reconstruction script reconstructionv3.py завершился успешно.
+[34m[1mwandb[0m: Adding directory to artifact (./outputs_final/checkpoints/checkpoint-10000)... Done. 0.1s
+[INFO] Reconstruction script reconstructionv3.py завершился успешно.
+[34m[1mwandb[0m: Adding directory to artifact (./outputs_final/checkpoints/checkpoint-12000)... Done. 0.2s
+[INFO] Reconstruction script reconstructionv3.py завершился успешно.
+[34m[1mwandb[0m: Adding directory to artifact (./outputs_final/checkpoints/checkpoint-14000)... Done. 0.1s
+[INFO] Reconstruction script reconstructionv3.py завершился успешно.
+[34m[1mwandb[0m: Adding directory to artifact (./outputs_final/checkpoints/checkpoint-16000)... Done. 0.1s
+[INFO] Reconstruction script reconstructionv3.py завершился успешно.
+[34m[1mwandb[0m: Adding directory to artifact (./outputs_final/checkpoints/checkpoint-18000)... Done. 0.1s
+[INFO] Reconstruction script reconstructionv3.py завершился успешно.
+[34m[1mwandb[0m: Adding directory to artifact (./outputs_final/checkpoints/checkpoint-20000)... Done. 0.1s
+[INFO] Reconstruction script reconstructionv3.py завершился успешно.
+[34m[1mwandb[0m: Adding directory to artifact (./outputs_final/checkpoints/checkpoint-22000)... Done. 0.1s
+[INFO] Reconstruction script reconstructionv3.py завершился успешно.
+[34m[1mwandb[0m: Adding directory to artifact (./outputs_final/checkpoints/checkpoint-24000)... Done. 0.1s
+[INFO] Reconstruction script reconstructionv3.py завершился успешно.
+[34m[1mwandb[0m: Adding directory to artifact (./outputs_final/checkpoints/checkpoint-26000)... Done. 0.1s
+[INFO] Reconstruction script reconstructionv3.py завершился успешно.
+[34m[1mwandb[0m: Adding directory to artifact (./outputs_final/checkpoints/checkpoint-28000)... Done. 0.1s
+[INFO] Reconstruction script reconstructionv3.py завершился успешно.
+[34m[1mwandb[0m: Adding directory to artifact (./outputs_final/checkpoints/checkpoint-30000)... Done. 0.1s
+[INFO] Reconstruction script reconstructionv3.py завершился успешно.
+[34m[1mwandb[0m: Adding directory to artifact (./outputs_final/checkpoints/checkpoint-32000)... Done. 0.1s
+[INFO] Reconstruction script reconstructionv3.py завершился успешно.
+[34m[1mwandb[0m: Adding directory to artifact (./outputs_final/checkpoints/checkpoint-34000)... Done. 0.1s
+[INFO] Reconstruction script reconstructionv3.py завершился успешно.
+[34m[1mwandb[0m: Adding directory to artifact (./outputs_final/checkpoints/checkpoint-36000)... Done. 0.1s
+[INFO] Reconstruction script reconstructionv3.py завершился успешно.
+[34m[1mwandb[0m: Adding directory to artifact (./outputs_final/checkpoints/checkpoint-38000)... Done. 0.1s
+[INFO] Reconstruction script reconstructionv3.py завершился успешно.
+[34m[1mwandb[0m: Adding directory to artifact (./outputs_final/checkpoints/checkpoint-40000)... Done. 0.1s
+[INFO] Reconstruction script reconstructionv3.py завершился успешно.
+[34m[1mwandb[0m: Adding directory to artifact (./outputs_final/checkpoints/checkpoint-42000)... Done. 0.1s
+[INFO] Reconstruction script reconstructionv3.py завершился успешно.
+--- Logging error ---
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/logging/__init__.py", line 1104, in emit
+    self.flush()
+  File "/usr/lib/python3.10/logging/__init__.py", line 1084, in flush
+    self.stream.flush()
+OSError: [Errno 5] Input/output error
+Call stack:
+  File "/usr/lib/python3.10/threading.py", line 973, in _bootstrap
+    self._bootstrap_inner()
+  File "/usr/lib/python3.10/threading.py", line 1016, in _bootstrap_inner
+    self.run()
+  File "/home/neos/.local/lib/python3.10/site-packages/ipykernel/parentpoller.py", line 38, in run
+    get_logger().warning("Parent appears to have exited, shutting down.")
+Message: 'Parent appears to have exited, shutting down.'
+Arguments: ()

@@ -1,0 +1,11 @@
+{"time":"2025-04-07T14:43:12.544377431+03:00","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/neos/vkr/wandb/run-20250407_144312-mpcydfqc/logs/debug-core.log"}
+{"time":"2025-04-07T14:43:12.889675392+03:00","level":"INFO","msg":"created new stream","id":"mpcydfqc"}
+{"time":"2025-04-07T14:43:12.889734892+03:00","level":"INFO","msg":"stream: started","id":"mpcydfqc"}
+{"time":"2025-04-07T14:43:12.889801741+03:00","level":"INFO","msg":"writer: Do: started","stream_id":"mpcydfqc"}
+{"time":"2025-04-07T14:43:12.889804341+03:00","level":"INFO","msg":"sender: started","stream_id":"mpcydfqc"}
+{"time":"2025-04-07T14:43:12.889950601+03:00","level":"INFO","msg":"handler: started","stream_id":"mpcydfqc"}
+{"time":"2025-04-07T14:43:13.362950294+03:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-07T16:26:35.902975099+03:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-07T16:27:02.819944801+03:00","level":"INFO","msg":"stream: closing","id":"mpcydfqc"}
+{"time":"2025-04-07T16:27:02.81998128+03:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-07T16:27:02.821470074+03:00","level":"INFO","msg":"Stopped system monitor"}

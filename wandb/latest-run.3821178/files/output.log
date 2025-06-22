@@ -1,0 +1,63 @@
+[34m[1mwandb[0m: Adding directory to artifact (./outputs_MaskFormer_wo_postproc_x4/checkpoints/checkpoint-1000)... Done. 2.2s
+[34m[1mwandb[0m: Adding directory to artifact (./outputs_MaskFormer_wo_postproc_x4/checkpoints/checkpoint-2000)... Done. 2.4s
+[INFO] Reconstruction script reconstructionv3.py завершился успешно.
+[34m[1mwandb[0m: Adding directory to artifact (./outputs_MaskFormer_wo_postproc_x4/checkpoints/checkpoint-3000)... Done. 2.0s
+[INFO] Reconstruction script reconstructionv3.py завершился успешно.
+[34m[1mwandb[0m: Adding directory to artifact (./outputs_MaskFormer_wo_postproc_x4/checkpoints/checkpoint-4000)... Done. 2.2s
+[INFO] Reconstruction script reconstructionv3.py завершился успешно.
+[34m[1mwandb[0m: Adding directory to artifact (./outputs_MaskFormer_wo_postproc_x4/checkpoints/checkpoint-5000)... Done. 2.3s
+[INFO] Reconstruction script reconstructionv3.py завершился успешно.
+[34m[1mwandb[0m: Adding directory to artifact (./outputs_MaskFormer_wo_postproc_x4/checkpoints/checkpoint-6000)... Done. 2.0s
+[INFO] Reconstruction script reconstructionv3.py завершился успешно.
+[34m[1mwandb[0m: Adding directory to artifact (./outputs_MaskFormer_wo_postproc_x4/checkpoints/checkpoint-7000)... Done. 2.1s
+[INFO] Reconstruction script reconstructionv3.py завершился успешно.
+[34m[1mwandb[0m: Adding directory to artifact (./outputs_MaskFormer_wo_postproc_x4/checkpoints/checkpoint-8000)... Done. 2.1s
+[INFO] Reconstruction script reconstructionv3.py завершился успешно.
+[34m[1mwandb[0m: Adding directory to artifact (./outputs_MaskFormer_wo_postproc_x4/checkpoints/checkpoint-9000)... Done. 2.1s
+[INFO] Reconstruction script reconstructionv3.py завершился успешно.
+[34m[1mwandb[0m: Adding directory to artifact (./outputs_MaskFormer_wo_postproc_x4/checkpoints/checkpoint-10000)... Done. 2.2s
+[INFO] Reconstruction script reconstructionv3.py завершился успешно.
+[34m[1mwandb[0m: Adding directory to artifact (./outputs_MaskFormer_wo_postproc_x4/checkpoints/checkpoint-11000)... Done. 2.0s
+[INFO] Reconstruction script reconstructionv3.py завершился успешно.
+[34m[1mwandb[0m: Adding directory to artifact (./outputs_MaskFormer_wo_postproc_x4/checkpoints/checkpoint-12000)... Done. 2.1s
+[INFO] Reconstruction script reconstructionv3.py завершился успешно.
+[34m[1mwandb[0m: Adding directory to artifact (./outputs_MaskFormer_wo_postproc_x4/checkpoints/checkpoint-13000)... Done. 2.2s
+[INFO] Reconstruction script reconstructionv3.py завершился успешно.
+[34m[1mwandb[0m: Adding directory to artifact (./outputs_MaskFormer_wo_postproc_x4/checkpoints/checkpoint-14000)... Done. 2.1s
+[INFO] Reconstruction script reconstructionv3.py завершился успешно.
+[34m[1mwandb[0m: Adding directory to artifact (./outputs_MaskFormer_wo_postproc_x4/checkpoints/checkpoint-15000)... Done. 2.2s
+[INFO] Reconstruction script reconstructionv3.py завершился успешно.
+[34m[1mwandb[0m: Adding directory to artifact (./outputs_MaskFormer_wo_postproc_x4/checkpoints/checkpoint-16000)... Done. 2.0s
+[INFO] Reconstruction script reconstructionv3.py завершился успешно.
+[34m[1mwandb[0m: Adding directory to artifact (./outputs_MaskFormer_wo_postproc_x4/checkpoints/checkpoint-17000)... Done. 2.1s
+[INFO] Reconstruction script reconstructionv3.py завершился успешно.
+[34m[1mwandb[0m: Adding directory to artifact (./outputs_MaskFormer_wo_postproc_x4/checkpoints/checkpoint-18000)... Done. 2.2s
+[INFO] Reconstruction script reconstructionv3.py завершился успешно.
+[34m[1mwandb[0m: Adding directory to artifact (./outputs_MaskFormer_wo_postproc_x4/checkpoints/checkpoint-19000)... Done. 3.7s
+[INFO] Reconstruction script reconstructionv3.py завершился успешно.
+[34m[1mwandb[0m: Adding directory to artifact (./outputs_MaskFormer_wo_postproc_x4/checkpoints/checkpoint-20000)... Done. 2.0s
+[INFO] Reconstruction script reconstructionv3.py завершился успешно.
+[34m[1mwandb[0m: Adding directory to artifact (./outputs_MaskFormer_wo_postproc_x4/checkpoints/checkpoint-21000)... Done. 3.0s
+[INFO] Reconstruction script reconstructionv3.py завершился успешно.
+[34m[1mwandb[0m: Adding directory to artifact (./outputs_MaskFormer_wo_postproc_x4/checkpoints/checkpoint-22000)... Done. 3.3s
+[INFO] Reconstruction script reconstructionv3.py завершился успешно.
+[34m[1mwandb[0m: Adding directory to artifact (./outputs_MaskFormer_wo_postproc_x4/checkpoints/checkpoint-23000)... Done. 2.2s
+[INFO] Reconstruction script reconstructionv3.py завершился успешно.
+[34m[1mwandb[0m: Adding directory to artifact (./outputs_MaskFormer_wo_postproc_x4/checkpoints/checkpoint-24000)... Done. 2.2s
+[INFO] Reconstruction script reconstructionv3.py завершился успешно.
+--- Logging error ---
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/logging/__init__.py", line 1104, in emit
+    self.flush()
+  File "/usr/lib/python3.10/logging/__init__.py", line 1084, in flush
+    self.stream.flush()
+OSError: [Errno 5] Input/output error
+Call stack:
+  File "/usr/lib/python3.10/threading.py", line 973, in _bootstrap
+    self._bootstrap_inner()
+  File "/usr/lib/python3.10/threading.py", line 1016, in _bootstrap_inner
+    self.run()
+  File "/home/neos/.local/lib/python3.10/site-packages/ipykernel/parentpoller.py", line 38, in run
+    get_logger().warning("Parent appears to have exited, shutting down.")
+Message: 'Parent appears to have exited, shutting down.'
+Arguments: ()

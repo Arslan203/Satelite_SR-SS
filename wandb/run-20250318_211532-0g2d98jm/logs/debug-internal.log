@@ -1,0 +1,16 @@
+{"time":"2025-03-18T21:15:32.291966244+03:00","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/neos/vkr/wandb/run-20250318_211532-0g2d98jm/logs/debug-core.log"}
+{"time":"2025-03-18T21:15:32.503782984+03:00","level":"INFO","msg":"created new stream","id":"0g2d98jm"}
+{"time":"2025-03-18T21:15:32.503837474+03:00","level":"INFO","msg":"stream: started","id":"0g2d98jm"}
+{"time":"2025-03-18T21:15:32.503906444+03:00","level":"INFO","msg":"writer: Do: started","stream_id":"0g2d98jm"}
+{"time":"2025-03-18T21:15:32.503967044+03:00","level":"INFO","msg":"handler: started","stream_id":"0g2d98jm"}
+{"time":"2025-03-18T21:15:32.504105734+03:00","level":"INFO","msg":"sender: started","stream_id":"0g2d98jm"}
+{"time":"2025-03-18T21:15:32.859822654+03:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-18T21:25:17.249959434+03:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-18T21:49:13.111869004+03:00","level":"INFO","msg":"stream: closing","id":"0g2d98jm"}
+{"time":"2025-03-18T21:49:13.111918174+03:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-18T21:49:13.116026534+03:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-18T21:49:14.692237544+03:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-18T21:49:15.020472044+03:00","level":"INFO","msg":"handler: closed","stream_id":"0g2d98jm"}
+{"time":"2025-03-18T21:49:15.020538664+03:00","level":"INFO","msg":"writer: Close: closed","stream_id":"0g2d98jm"}
+{"time":"2025-03-18T21:49:15.020599374+03:00","level":"INFO","msg":"sender: closed","stream_id":"0g2d98jm"}
+{"time":"2025-03-18T21:49:15.020655404+03:00","level":"INFO","msg":"stream: closed","id":"0g2d98jm"}

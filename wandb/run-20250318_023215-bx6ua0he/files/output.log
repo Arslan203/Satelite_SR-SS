@@ -1,0 +1,7 @@
+/home/neos/miniconda3/envs/vkr/lib/python3.13/site-packages/datasets/features/image.py:348: UserWarning: Downcasting array dtype int64 to int32 to be compatible with 'Pillow'
+  warnings.warn(f"Downcasting array dtype {dtype} to {dest_dtype} to be compatible with 'Pillow'")
+/home/neos/.cache/huggingface/modules/evaluate_modules/metrics/evaluate-metric--mean_iou/9e450724f21f05592bfb0255fe2fa576df8171fa060d11121d8aecfff0db80d0/mean_iou.py:260: RuntimeWarning: invalid value encountered in divide
+  acc = total_area_intersect / total_area_label
+Saved evaluation predictions to: outputs_test_x4/eval_predict/step_500
+Saved evaluation predictions to: outputs_test_x4/eval_predict/step_1000
+[34m[1mwandb[0m: Adding directory to artifact (./outputs_test_x4/segformer-b0-satelite/checkpoint-1000)... Done. 0.1s

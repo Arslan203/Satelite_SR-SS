@@ -1,0 +1,16 @@
+{"time":"2025-03-19T00:44:47.567708743+03:00","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/neos/vkr/wandb/run-20250319_004447-8csijegt/logs/debug-core.log"}
+{"time":"2025-03-19T00:44:47.777991933+03:00","level":"INFO","msg":"created new stream","id":"8csijegt"}
+{"time":"2025-03-19T00:44:47.778040283+03:00","level":"INFO","msg":"stream: started","id":"8csijegt"}
+{"time":"2025-03-19T00:44:47.778116002+03:00","level":"INFO","msg":"writer: Do: started","stream_id":"8csijegt"}
+{"time":"2025-03-19T00:44:47.778166942+03:00","level":"INFO","msg":"handler: started","stream_id":"8csijegt"}
+{"time":"2025-03-19T00:44:47.778286341+03:00","level":"INFO","msg":"sender: started","stream_id":"8csijegt"}
+{"time":"2025-03-19T00:44:48.369039109+03:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-19T01:29:28.460763997+03:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-19T01:30:19.892557807+03:00","level":"ERROR","msg":"HTTP error","status":404,"method":"POST","url":"https://api.wandb.ai/files/course_sr/huggingface/8csijegt/file_stream"}
+{"time":"2025-03-19T01:30:19.892637026+03:00","level":"ERROR+4","msg":"filestream: fatal error: filestream: failed to upload: 404 Not Found path=files/course_sr/huggingface/8csijegt/file_stream: {\"error\":\"run huggingface/8csijegt not found while streaming file\"}"}
+{"time":"2025-03-19T01:30:26.688976022+03:00","level":"INFO","msg":"stream: closing","id":"8csijegt"}
+{"time":"2025-03-19T01:30:26.689038791+03:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-19T01:30:26.690174061+03:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-19T01:30:26.904626294+03:00","level":"ERROR","msg":"HTTP error","status":404,"method":"POST","url":"https://api.wandb.ai/graphql"}
+{"time":"2025-03-19T01:30:26.904817312+03:00","level":"ERROR","msg":"runfiles: CreateRunFiles returned error: returned error 404: {\"data\":{\"createRunFiles\":null},\"errors\":[{\"message\":\"run huggingface/8csijegt not found during createRunFiles\",\"path\":[\"createRunFiles\"]}]}"}
+{"time":"2025-03-19T01:30:26.96989815+03:00","level":"INFO","msg":"api: retrying HTTP error","status":409,"url":"https://api.wandb.ai/graphql","body":"{\"errors\":[{\"message\":\"run 8csijegt was previously created and deleted; try a new run name\",\"path\":[\"upsertBucket\"]}],\"data\":{\"upsertBucket\":null}}"}

@@ -1,0 +1,10 @@
+{"time":"2025-04-15T15:45:27.079793599+03:00","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/neos/vkr/wandb/run-20250415_154527-5mwhaw4y/logs/debug-core.log"}
+{"time":"2025-04-15T15:45:27.189270115+03:00","level":"INFO","msg":"created new stream","id":"5mwhaw4y"}
+{"time":"2025-04-15T15:45:27.189333035+03:00","level":"INFO","msg":"stream: started","id":"5mwhaw4y"}
+{"time":"2025-04-15T15:45:27.189391004+03:00","level":"INFO","msg":"writer: Do: started","stream_id":"5mwhaw4y"}
+{"time":"2025-04-15T15:45:27.189413204+03:00","level":"INFO","msg":"handler: started","stream_id":"5mwhaw4y"}
+{"time":"2025-04-15T15:45:27.189657923+03:00","level":"INFO","msg":"sender: started","stream_id":"5mwhaw4y"}
+{"time":"2025-04-15T15:45:27.496829208+03:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-15T17:32:58.249752984+03:00","level":"INFO","msg":"api: retrying HTTP error","status":502,"url":"https://api.wandb.ai/files/course_sr/huggingface/5mwhaw4y/file_stream","body":"\n<html><head>\n<meta http-equiv=\"content-type\" content=\"text/html;charset=utf-8\">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n"}
+{"time":"2025-04-15T18:59:27.812657829+03:00","level":"INFO","msg":"api: retrying HTTP error","status":502,"url":"https://api.wandb.ai/files/course_sr/huggingface/5mwhaw4y/file_stream","body":"\n<html><head>\n<meta http-equiv=\"content-type\" content=\"text/html;charset=utf-8\">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n"}
+{"time":"2025-04-15T19:45:06.280656296+03:00","level":"INFO","msg":"Pausing system monitor"}

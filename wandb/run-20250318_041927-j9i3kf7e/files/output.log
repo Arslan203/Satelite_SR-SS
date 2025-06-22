@@ -1,0 +1,24 @@
+/home/neos/miniconda3/envs/vkr/lib/python3.13/site-packages/datasets/features/image.py:348: UserWarning: Downcasting array dtype int64 to int32 to be compatible with 'Pillow'
+  warnings.warn(f"Downcasting array dtype {dtype} to {dest_dtype} to be compatible with 'Pillow'")
+/home/neos/miniconda3/envs/vkr/lib/python3.13/site-packages/datasets/features/image.py:348: UserWarning: Downcasting array dtype int64 to int32 to be compatible with 'Pillow'
+  warnings.warn(f"Downcasting array dtype {dtype} to {dest_dtype} to be compatible with 'Pillow'")
+Saved evaluation predictions to: outputs_finetune/eval_predict/step_500
+/home/neos/miniconda3/envs/vkr/lib/python3.13/site-packages/datasets/features/image.py:348: UserWarning: Downcasting array dtype int64 to int32 to be compatible with 'Pillow'
+  warnings.warn(f"Downcasting array dtype {dtype} to {dest_dtype} to be compatible with 'Pillow'")
+/home/neos/miniconda3/envs/vkr/lib/python3.13/site-packages/datasets/features/image.py:348: UserWarning: Downcasting array dtype int64 to int32 to be compatible with 'Pillow'
+  warnings.warn(f"Downcasting array dtype {dtype} to {dest_dtype} to be compatible with 'Pillow'")
+Saved evaluation predictions to: outputs_finetune/eval_predict/step_1000
+[34m[1mwandb[0m: Adding directory to artifact (./outputs_finetune/segformer-b0-satelite/checkpoint-1000)... Done. 0.1s
+/home/neos/miniconda3/envs/vkr/lib/python3.13/site-packages/datasets/features/image.py:348: UserWarning: Downcasting array dtype int64 to int32 to be compatible with 'Pillow'
+  warnings.warn(f"Downcasting array dtype {dtype} to {dest_dtype} to be compatible with 'Pillow'")
+/home/neos/miniconda3/envs/vkr/lib/python3.13/site-packages/datasets/features/image.py:348: UserWarning: Downcasting array dtype int64 to int32 to be compatible with 'Pillow'
+  warnings.warn(f"Downcasting array dtype {dtype} to {dest_dtype} to be compatible with 'Pillow'")
+Saved evaluation predictions to: outputs_finetune/eval_predict/step_1500
+/home/neos/miniconda3/envs/vkr/lib/python3.13/site-packages/datasets/features/image.py:348: UserWarning: Downcasting array dtype int64 to int32 to be compatible with 'Pillow'
+  warnings.warn(f"Downcasting array dtype {dtype} to {dest_dtype} to be compatible with 'Pillow'")
+/home/neos/miniconda3/envs/vkr/lib/python3.13/site-packages/datasets/features/image.py:348: UserWarning: Downcasting array dtype int64 to int32 to be compatible with 'Pillow'
+  warnings.warn(f"Downcasting array dtype {dtype} to {dest_dtype} to be compatible with 'Pillow'")
+Saved evaluation predictions to: outputs_finetune/eval_predict/step_2000
+[34m[1mwandb[0m: Adding directory to artifact (./outputs_finetune/segformer-b0-satelite/checkpoint-2000)... Done. 0.1s
+/home/neos/miniconda3/envs/vkr/lib/python3.13/site-packages/datasets/features/image.py:348: UserWarning: Downcasting array dtype int64 to int32 to be compatible with 'Pillow'
+  warnings.warn(f"Downcasting array dtype {dtype} to {dest_dtype} to be compatible with 'Pillow'")

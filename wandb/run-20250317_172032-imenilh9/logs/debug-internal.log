@@ -1,0 +1,14 @@
+{"time":"2025-03-17T17:20:32.527023334+03:00","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/neos/vkr/wandb/run-20250317_172032-imenilh9/logs/debug-core.log"}
+{"time":"2025-03-17T17:20:32.773417264+03:00","level":"INFO","msg":"created new stream","id":"imenilh9"}
+{"time":"2025-03-17T17:20:32.773468274+03:00","level":"INFO","msg":"stream: started","id":"imenilh9"}
+{"time":"2025-03-17T17:20:32.773544144+03:00","level":"INFO","msg":"writer: Do: started","stream_id":"imenilh9"}
+{"time":"2025-03-17T17:20:32.773546994+03:00","level":"INFO","msg":"sender: started","stream_id":"imenilh9"}
+{"time":"2025-03-17T17:20:32.773579504+03:00","level":"INFO","msg":"handler: started","stream_id":"imenilh9"}
+{"time":"2025-03-17T17:20:33.192107464+03:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T18:45:30.937577014+03:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-17T18:45:40.444512224+03:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-17T18:45:40.446250784+03:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-17T18:50:28.661155884+03:00","level":"INFO","msg":"stream: closing","id":"imenilh9"}
+{"time":"2025-03-17T18:50:28.661191004+03:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T18:50:28.662866164+03:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T18:50:30.327817834+03:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}

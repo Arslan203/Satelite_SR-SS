@@ -1,0 +1,16 @@
+{"time":"2025-04-07T12:50:07.251010503+03:00","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/neos/vkr/wandb/run-20250407_125007-sdt424xw/logs/debug-core.log"}
+{"time":"2025-04-07T12:50:07.499442116+03:00","level":"INFO","msg":"created new stream","id":"sdt424xw"}
+{"time":"2025-04-07T12:50:07.499485626+03:00","level":"INFO","msg":"stream: started","id":"sdt424xw"}
+{"time":"2025-04-07T12:50:07.501213339+03:00","level":"INFO","msg":"sender: started","stream_id":"sdt424xw"}
+{"time":"2025-04-07T12:50:07.501279819+03:00","level":"INFO","msg":"handler: started","stream_id":"sdt424xw"}
+{"time":"2025-04-07T12:50:07.501315508+03:00","level":"INFO","msg":"writer: Do: started","stream_id":"sdt424xw"}
+{"time":"2025-04-07T12:50:08.092850881+03:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-07T12:54:35.594216952+03:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-07T12:56:49.187560511+03:00","level":"INFO","msg":"stream: closing","id":"sdt424xw"}
+{"time":"2025-04-07T12:56:49.187609981+03:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-07T12:56:49.194641092+03:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-07T12:56:50.726917962+03:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-04-07T12:56:51.14930568+03:00","level":"INFO","msg":"handler: closed","stream_id":"sdt424xw"}
+{"time":"2025-04-07T12:56:51.14937091+03:00","level":"INFO","msg":"sender: closed","stream_id":"sdt424xw"}
+{"time":"2025-04-07T12:56:51.14937072+03:00","level":"INFO","msg":"writer: Close: closed","stream_id":"sdt424xw"}
+{"time":"2025-04-07T12:56:51.149510069+03:00","level":"INFO","msg":"stream: closed","id":"sdt424xw"}

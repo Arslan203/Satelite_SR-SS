@@ -1,0 +1,13 @@
+{"time":"2025-03-17T17:18:15.972369324+03:00","level":"INFO","msg":"main: starting server","port-filename":"/var/tmp/tmp66iylpak/port-1319201.txt","pid":1319201,"log-level":0,"disable-analytics":false,"shutdown-on-parent-exit":false}
+{"time":"2025-03-17T17:18:15.982196634+03:00","level":"INFO","msg":"server is running","addr":{"IP":"127.0.0.1","Port":40913,"Zone":""}}
+{"time":"2025-03-17T17:18:15.982419884+03:00","level":"INFO","msg":"Will exit if parent process dies.","ppid":1319201}
+{"time":"2025-03-17T17:18:16.137645334+03:00","level":"INFO","msg":"connection: ManageConnectionData: new connection created","id":"127.0.0.1:43608"}
+{"time":"2025-03-17T17:18:16.589365134+03:00","level":"INFO","msg":"handleInformInit: received","streamId":"rgao0ttv","id":"127.0.0.1:43608"}
+{"time":"2025-03-17T17:18:16.929270774+03:00","level":"INFO","msg":"handleInformInit: stream started","streamId":"rgao0ttv","id":"127.0.0.1:43608"}
+{"time":"2025-03-17T17:19:06.925683764+03:00","level":"INFO","msg":"handleInformTeardown: server teardown initiated","id":"127.0.0.1:43608"}
+{"time":"2025-03-17T17:19:06.925950844+03:00","level":"INFO","msg":"connection: closing","id":"127.0.0.1:43608"}
+{"time":"2025-03-17T17:19:06.926096784+03:00","level":"INFO","msg":"connection: closed successfully","id":"127.0.0.1:43608"}
+{"time":"2025-03-17T17:19:06.926108194+03:00","level":"INFO","msg":"server is shutting down"}
+{"time":"2025-03-17T17:19:08.317690584+03:00","level":"INFO","msg":"handleInformTeardown: server shutdown complete","id":"127.0.0.1:43608"}
+{"time":"2025-03-17T17:19:08.317724074+03:00","level":"INFO","msg":"connection: ManageConnectionData: connection closed","id":"127.0.0.1:43608"}
+{"time":"2025-03-17T17:19:08.317740994+03:00","level":"INFO","msg":"server is closed"}

@@ -1,0 +1,8 @@
+{"time":"2025-04-15T15:40:28.88034314+03:00","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/neos/vkr/wandb/run-20250415_154028-13kvvajo/logs/debug-core.log"}
+{"time":"2025-04-15T15:40:29.111770982+03:00","level":"INFO","msg":"created new stream","id":"13kvvajo"}
+{"time":"2025-04-15T15:40:29.111824592+03:00","level":"INFO","msg":"stream: started","id":"13kvvajo"}
+{"time":"2025-04-15T15:40:29.111891162+03:00","level":"INFO","msg":"sender: started","stream_id":"13kvvajo"}
+{"time":"2025-04-15T15:40:29.111875362+03:00","level":"INFO","msg":"writer: Do: started","stream_id":"13kvvajo"}
+{"time":"2025-04-15T15:40:29.111983692+03:00","level":"INFO","msg":"handler: started","stream_id":"13kvvajo"}
+{"time":"2025-04-15T15:40:29.492168711+03:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-15T15:45:08.764078775+03:00","level":"INFO","msg":"Pausing system monitor"}

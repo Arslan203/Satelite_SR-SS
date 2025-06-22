@@ -1,0 +1,7 @@
+{"time":"2025-03-18T21:49:29.779517034+03:00","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/neos/vkr/wandb/run-20250318_214929-h4h4s471/logs/debug-core.log"}
+{"time":"2025-03-18T21:49:29.993021664+03:00","level":"INFO","msg":"created new stream","id":"h4h4s471"}
+{"time":"2025-03-18T21:49:29.993088644+03:00","level":"INFO","msg":"stream: started","id":"h4h4s471"}
+{"time":"2025-03-18T21:49:29.993180584+03:00","level":"INFO","msg":"writer: Do: started","stream_id":"h4h4s471"}
+{"time":"2025-03-18T21:49:29.993247964+03:00","level":"INFO","msg":"sender: started","stream_id":"h4h4s471"}
+{"time":"2025-03-18T21:49:29.993328534+03:00","level":"INFO","msg":"handler: started","stream_id":"h4h4s471"}
+{"time":"2025-03-18T21:49:30.322315694+03:00","level":"INFO","msg":"Starting system monitor"}

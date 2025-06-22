@@ -1,0 +1,13 @@
+{"time":"2025-03-17T13:58:50.101920514+03:00","level":"INFO","msg":"main: starting server","port-filename":"/var/tmp/tmp8pqf2yfm/port-2241502.txt","pid":2241502,"log-level":0,"disable-analytics":false,"shutdown-on-parent-exit":false}
+{"time":"2025-03-17T13:58:50.104525754+03:00","level":"INFO","msg":"server is running","addr":{"IP":"127.0.0.1","Port":39789,"Zone":""}}
+{"time":"2025-03-17T13:58:50.104654194+03:00","level":"INFO","msg":"Will exit if parent process dies.","ppid":2241502}
+{"time":"2025-03-17T13:58:50.271788154+03:00","level":"INFO","msg":"connection: ManageConnectionData: new connection created","id":"127.0.0.1:45874"}
+{"time":"2025-03-17T13:58:50.662107594+03:00","level":"INFO","msg":"handleInformInit: received","streamId":"xexg57jc","id":"127.0.0.1:45874"}
+{"time":"2025-03-17T13:58:50.874249784+03:00","level":"INFO","msg":"handleInformInit: stream started","streamId":"xexg57jc","id":"127.0.0.1:45874"}
+{"time":"2025-03-17T14:03:31.561950504+03:00","level":"INFO","msg":"handleInformTeardown: server teardown initiated","id":"127.0.0.1:45874"}
+{"time":"2025-03-17T14:03:31.562094754+03:00","level":"INFO","msg":"connection: closing","id":"127.0.0.1:45874"}
+{"time":"2025-03-17T14:03:31.562221434+03:00","level":"INFO","msg":"connection: closed successfully","id":"127.0.0.1:45874"}
+{"time":"2025-03-17T14:03:31.562216764+03:00","level":"INFO","msg":"server is shutting down"}
+{"time":"2025-03-17T14:03:33.072190334+03:00","level":"INFO","msg":"handleInformTeardown: server shutdown complete","id":"127.0.0.1:45874"}
+{"time":"2025-03-17T14:03:33.072226564+03:00","level":"INFO","msg":"connection: ManageConnectionData: connection closed","id":"127.0.0.1:45874"}
+{"time":"2025-03-17T14:03:33.072249654+03:00","level":"INFO","msg":"server is closed"}

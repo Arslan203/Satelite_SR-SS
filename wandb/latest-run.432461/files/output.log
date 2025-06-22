@@ -1,0 +1,7 @@
+Saved evaluation predictions to: outputs_dice/eval_predict/step_500
+Saved evaluation predictions to: outputs_dice/eval_predict/step_1000
+[34m[1mwandb[0m: Adding directory to artifact (./outputs_dice/segformer-b0-satelite/checkpoint-1000)... Done. 0.1s
+Saved evaluation predictions to: outputs_dice/eval_predict/step_1500
+Saved evaluation predictions to: outputs_dice/eval_predict/step_2000
+[34m[1mwandb[0m: Adding directory to artifact (./outputs_dice/segformer-b0-satelite/checkpoint-2000)... Done. 0.1s
+[34m[1mwandb[0m: [33mWARNING[0m Fatal error while uploading data. Some run data will not be synced, but it will still be written to disk. Use `wandb sync` at the end of the run to try uploading.

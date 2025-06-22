@@ -1,0 +1,239 @@
+Saved evaluation predictions to: outputs_dice/eval_predict/step_500
+Saved evaluation predictions to: outputs_dice/eval_predict/step_1000
+[34m[1mwandb[0m: Adding directory to artifact (./outputs_dice/segformer-b0-satelite/checkpoint-1000)... Done. 0.1s
+Saved evaluation predictions to: outputs_dice/eval_predict/step_1500
+Saved evaluation predictions to: outputs_dice/eval_predict/step_2000
+[34m[1mwandb[0m: Adding directory to artifact (./outputs_dice/segformer-b0-satelite/checkpoint-2000)... Done. 0.1s
+Saved evaluation predictions to: outputs_dice/eval_predict/step_2500
+Saved evaluation predictions to: outputs_dice/eval_predict/step_3000
+[34m[1mwandb[0m: Adding directory to artifact (./outputs_dice/segformer-b0-satelite/checkpoint-3000)... Done. 0.1s
+Saved evaluation predictions to: outputs_dice/eval_predict/step_3500
+Saved evaluation predictions to: outputs_dice/eval_predict/step_4000
+[34m[1mwandb[0m: Adding directory to artifact (./outputs_dice/segformer-b0-satelite/checkpoint-4000)... Done. 0.1s
+Saved evaluation predictions to: outputs_dice/eval_predict/step_4500
+Saved evaluation predictions to: outputs_dice/eval_predict/step_5000
+[34m[1mwandb[0m: Adding directory to artifact (./outputs_dice/segformer-b0-satelite/checkpoint-5000)... Done. 0.1s
+Saved evaluation predictions to: outputs_dice/eval_predict/step_5500
+Saved evaluation predictions to: outputs_dice/eval_predict/step_6000
+[34m[1mwandb[0m: Adding directory to artifact (./outputs_dice/segformer-b0-satelite/checkpoint-6000)... Done. 0.1s
+Saved evaluation predictions to: outputs_dice/eval_predict/step_6500
+Saved evaluation predictions to: outputs_dice/eval_predict/step_7000
+[34m[1mwandb[0m: Adding directory to artifact (./outputs_dice/segformer-b0-satelite/checkpoint-7000)... Done. 0.1s
+Saved evaluation predictions to: outputs_dice/eval_predict/step_7500
+Saved evaluation predictions to: outputs_dice/eval_predict/step_8000
+[34m[1mwandb[0m: Adding directory to artifact (./outputs_dice/segformer-b0-satelite/checkpoint-8000)... Done. 0.1s
+Saved evaluation predictions to: outputs_dice/eval_predict/step_8500
+Saved evaluation predictions to: outputs_dice/eval_predict/step_9000
+[34m[1mwandb[0m: Adding directory to artifact (./outputs_dice/segformer-b0-satelite/checkpoint-9000)... Done. 0.1s
+Saved evaluation predictions to: outputs_dice/eval_predict/step_9500
+Saved evaluation predictions to: outputs_dice/eval_predict/step_10000
+[34m[1mwandb[0m: Adding directory to artifact (./outputs_dice/segformer-b0-satelite/checkpoint-10000)... Done. 0.1s
+Saved evaluation predictions to: outputs_dice/eval_predict/step_10500
+Saved evaluation predictions to: outputs_dice/eval_predict/step_11000
+[34m[1mwandb[0m: Adding directory to artifact (./outputs_dice/segformer-b0-satelite/checkpoint-11000)... Done. 0.1s
+Saved evaluation predictions to: outputs_dice/eval_predict/step_11500
+Saved evaluation predictions to: outputs_dice/eval_predict/step_12000
+[34m[1mwandb[0m: Adding directory to artifact (./outputs_dice/segformer-b0-satelite/checkpoint-12000)... Done. 0.1s
+Saved evaluation predictions to: outputs_dice/eval_predict/step_12500
+Saved evaluation predictions to: outputs_dice/eval_predict/step_13000
+[34m[1mwandb[0m: Adding directory to artifact (./outputs_dice/segformer-b0-satelite/checkpoint-13000)... Done. 0.1s
+Saved evaluation predictions to: outputs_dice/eval_predict/step_13500
+Saved evaluation predictions to: outputs_dice/eval_predict/step_14000
+[34m[1mwandb[0m: Adding directory to artifact (./outputs_dice/segformer-b0-satelite/checkpoint-14000)... Done. 0.1s
+Saved evaluation predictions to: outputs_dice/eval_predict/step_14500
+Saved evaluation predictions to: outputs_dice/eval_predict/step_15000
+[34m[1mwandb[0m: Adding directory to artifact (./outputs_dice/segformer-b0-satelite/checkpoint-15000)... Done. 0.1s
+Saved evaluation predictions to: outputs_dice/eval_predict/step_15500
+Saved evaluation predictions to: outputs_dice/eval_predict/step_16000
+[34m[1mwandb[0m: Adding directory to artifact (./outputs_dice/segformer-b0-satelite/checkpoint-16000)... Done. 0.1s
+Saved evaluation predictions to: outputs_dice/eval_predict/step_16500
+Saved evaluation predictions to: outputs_dice/eval_predict/step_17000
+[34m[1mwandb[0m: Adding directory to artifact (./outputs_dice/segformer-b0-satelite/checkpoint-17000)... Done. 0.1s
+Saved evaluation predictions to: outputs_dice/eval_predict/step_17500
+Saved evaluation predictions to: outputs_dice/eval_predict/step_18000
+[34m[1mwandb[0m: Adding directory to artifact (./outputs_dice/segformer-b0-satelite/checkpoint-18000)... Done. 0.1s
+Saved evaluation predictions to: outputs_dice/eval_predict/step_18500
+Saved evaluation predictions to: outputs_dice/eval_predict/step_19000
+[34m[1mwandb[0m: Adding directory to artifact (./outputs_dice/segformer-b0-satelite/checkpoint-19000)... Done. 0.1s
+Saved evaluation predictions to: outputs_dice/eval_predict/step_19500
+Saved evaluation predictions to: outputs_dice/eval_predict/step_20000
+[34m[1mwandb[0m: Adding directory to artifact (./outputs_dice/segformer-b0-satelite/checkpoint-20000)... Done. 0.1s
+Saved evaluation predictions to: outputs_dice/eval_predict/step_20500
+Saved evaluation predictions to: outputs_dice/eval_predict/step_21000
+[34m[1mwandb[0m: Adding directory to artifact (./outputs_dice/segformer-b0-satelite/checkpoint-21000)... Done. 0.1s
+Saved evaluation predictions to: outputs_dice/eval_predict/step_21500
+Saved evaluation predictions to: outputs_dice/eval_predict/step_22000
+[34m[1mwandb[0m: Adding directory to artifact (./outputs_dice/segformer-b0-satelite/checkpoint-22000)... Done. 0.1s
+Saved evaluation predictions to: outputs_dice/eval_predict/step_22500
+Saved evaluation predictions to: outputs_dice/eval_predict/step_23000
+[34m[1mwandb[0m: Adding directory to artifact (./outputs_dice/segformer-b0-satelite/checkpoint-23000)... Done. 0.1s
+Saved evaluation predictions to: outputs_dice/eval_predict/step_23500
+Saved evaluation predictions to: outputs_dice/eval_predict/step_24000
+[34m[1mwandb[0m: Adding directory to artifact (./outputs_dice/segformer-b0-satelite/checkpoint-24000)... Done. 0.1s
+Saved evaluation predictions to: outputs_dice/eval_predict/step_24500
+Saved evaluation predictions to: outputs_dice/eval_predict/step_25000
+[34m[1mwandb[0m: Adding directory to artifact (./outputs_dice/segformer-b0-satelite/checkpoint-25000)... Done. 0.1s
+Saved evaluation predictions to: outputs_dice/eval_predict/step_25500
+Saved evaluation predictions to: outputs_dice/eval_predict/step_26000
+[34m[1mwandb[0m: Adding directory to artifact (./outputs_dice/segformer-b0-satelite/checkpoint-26000)... Done. 0.1s
+Saved evaluation predictions to: outputs_dice/eval_predict/step_26500
+Saved evaluation predictions to: outputs_dice/eval_predict/step_27000
+[34m[1mwandb[0m: Adding directory to artifact (./outputs_dice/segformer-b0-satelite/checkpoint-27000)... Done. 0.1s
+Saved evaluation predictions to: outputs_dice/eval_predict/step_27500
+Saved evaluation predictions to: outputs_dice/eval_predict/step_28000
+[34m[1mwandb[0m: Adding directory to artifact (./outputs_dice/segformer-b0-satelite/checkpoint-28000)... Done. 0.1s
+Saved evaluation predictions to: outputs_dice/eval_predict/step_28500
+Saved evaluation predictions to: outputs_dice/eval_predict/step_29000
+[34m[1mwandb[0m: Adding directory to artifact (./outputs_dice/segformer-b0-satelite/checkpoint-29000)... Done. 0.1s
+Saved evaluation predictions to: outputs_dice/eval_predict/step_29500
+Saved evaluation predictions to: outputs_dice/eval_predict/step_30000
+[34m[1mwandb[0m: Adding directory to artifact (./outputs_dice/segformer-b0-satelite/checkpoint-30000)... Done. 0.1s
+Saved evaluation predictions to: outputs_dice/eval_predict/step_30500
+Saved evaluation predictions to: outputs_dice/eval_predict/step_31000
+[34m[1mwandb[0m: Adding directory to artifact (./outputs_dice/segformer-b0-satelite/checkpoint-31000)... Done. 0.1s
+Saved evaluation predictions to: outputs_dice/eval_predict/step_31500
+Saved evaluation predictions to: outputs_dice/eval_predict/step_32000
+[34m[1mwandb[0m: Adding directory to artifact (./outputs_dice/segformer-b0-satelite/checkpoint-32000)... Done. 0.1s
+Saved evaluation predictions to: outputs_dice/eval_predict/step_32500
+Saved evaluation predictions to: outputs_dice/eval_predict/step_33000
+[34m[1mwandb[0m: Adding directory to artifact (./outputs_dice/segformer-b0-satelite/checkpoint-33000)... Done. 0.1s
+Saved evaluation predictions to: outputs_dice/eval_predict/step_33500
+Saved evaluation predictions to: outputs_dice/eval_predict/step_34000
+[34m[1mwandb[0m: Adding directory to artifact (./outputs_dice/segformer-b0-satelite/checkpoint-34000)... Done. 0.1s
+Saved evaluation predictions to: outputs_dice/eval_predict/step_34500
+Saved evaluation predictions to: outputs_dice/eval_predict/step_35000
+[34m[1mwandb[0m: Adding directory to artifact (./outputs_dice/segformer-b0-satelite/checkpoint-35000)... Done. 0.1s
+Saved evaluation predictions to: outputs_dice/eval_predict/step_35500
+Saved evaluation predictions to: outputs_dice/eval_predict/step_36000
+[34m[1mwandb[0m: Adding directory to artifact (./outputs_dice/segformer-b0-satelite/checkpoint-36000)... Done. 0.1s
+Saved evaluation predictions to: outputs_dice/eval_predict/step_36500
+Saved evaluation predictions to: outputs_dice/eval_predict/step_37000
+[34m[1mwandb[0m: Adding directory to artifact (./outputs_dice/segformer-b0-satelite/checkpoint-37000)... Done. 0.1s
+Saved evaluation predictions to: outputs_dice/eval_predict/step_37500
+Saved evaluation predictions to: outputs_dice/eval_predict/step_38000
+[34m[1mwandb[0m: Adding directory to artifact (./outputs_dice/segformer-b0-satelite/checkpoint-38000)... Done. 0.1s
+Saved evaluation predictions to: outputs_dice/eval_predict/step_38500
+Saved evaluation predictions to: outputs_dice/eval_predict/step_39000
+[34m[1mwandb[0m: Adding directory to artifact (./outputs_dice/segformer-b0-satelite/checkpoint-39000)... Done. 0.1s
+Saved evaluation predictions to: outputs_dice/eval_predict/step_39500
+Saved evaluation predictions to: outputs_dice/eval_predict/step_40000
+[34m[1mwandb[0m: Adding directory to artifact (./outputs_dice/segformer-b0-satelite/checkpoint-40000)... Done. 0.1s
+Saved evaluation predictions to: outputs_dice/eval_predict/step_40500
+Saved evaluation predictions to: outputs_dice/eval_predict/step_41000
+[34m[1mwandb[0m: Adding directory to artifact (./outputs_dice/segformer-b0-satelite/checkpoint-41000)... Done. 0.1s
+Saved evaluation predictions to: outputs_dice/eval_predict/step_41500
+Saved evaluation predictions to: outputs_dice/eval_predict/step_42000
+[34m[1mwandb[0m: Adding directory to artifact (./outputs_dice/segformer-b0-satelite/checkpoint-42000)... Done. 0.1s
+Saved evaluation predictions to: outputs_dice/eval_predict/step_42500
+Saved evaluation predictions to: outputs_dice/eval_predict/step_43000
+[34m[1mwandb[0m: Adding directory to artifact (./outputs_dice/segformer-b0-satelite/checkpoint-43000)... Done. 0.1s
+Saved evaluation predictions to: outputs_dice/eval_predict/step_43500
+Saved evaluation predictions to: outputs_dice/eval_predict/step_44000
+[34m[1mwandb[0m: Adding directory to artifact (./outputs_dice/segformer-b0-satelite/checkpoint-44000)... Done. 0.1s
+Saved evaluation predictions to: outputs_dice/eval_predict/step_44500
+Saved evaluation predictions to: outputs_dice/eval_predict/step_45000
+[34m[1mwandb[0m: Adding directory to artifact (./outputs_dice/segformer-b0-satelite/checkpoint-45000)... Done. 0.1s
+Saved evaluation predictions to: outputs_dice/eval_predict/step_45500
+Saved evaluation predictions to: outputs_dice/eval_predict/step_46000
+[34m[1mwandb[0m: Adding directory to artifact (./outputs_dice/segformer-b0-satelite/checkpoint-46000)... Done. 0.1s
+Saved evaluation predictions to: outputs_dice/eval_predict/step_46500
+Saved evaluation predictions to: outputs_dice/eval_predict/step_47000
+[34m[1mwandb[0m: Adding directory to artifact (./outputs_dice/segformer-b0-satelite/checkpoint-47000)... Done. 0.1s
+Saved evaluation predictions to: outputs_dice/eval_predict/step_47500
+Saved evaluation predictions to: outputs_dice/eval_predict/step_48000
+[34m[1mwandb[0m: Adding directory to artifact (./outputs_dice/segformer-b0-satelite/checkpoint-48000)... Done. 0.1s
+Saved evaluation predictions to: outputs_dice/eval_predict/step_48500
+Saved evaluation predictions to: outputs_dice/eval_predict/step_49000
+[34m[1mwandb[0m: Adding directory to artifact (./outputs_dice/segformer-b0-satelite/checkpoint-49000)... Done. 0.1s
+Saved evaluation predictions to: outputs_dice/eval_predict/step_49500
+Saved evaluation predictions to: outputs_dice/eval_predict/step_50000
+[34m[1mwandb[0m: Adding directory to artifact (./outputs_dice/segformer-b0-satelite/checkpoint-50000)... Done. 0.1s
+Saved evaluation predictions to: outputs_dice/eval_predict/step_50500
+Saved evaluation predictions to: outputs_dice/eval_predict/step_51000
+[34m[1mwandb[0m: Adding directory to artifact (./outputs_dice/segformer-b0-satelite/checkpoint-51000)... Done. 0.1s
+Saved evaluation predictions to: outputs_dice/eval_predict/step_51500
+Saved evaluation predictions to: outputs_dice/eval_predict/step_52000
+[34m[1mwandb[0m: Adding directory to artifact (./outputs_dice/segformer-b0-satelite/checkpoint-52000)... Done. 0.1s
+Saved evaluation predictions to: outputs_dice/eval_predict/step_52500
+Saved evaluation predictions to: outputs_dice/eval_predict/step_53000
+[34m[1mwandb[0m: Adding directory to artifact (./outputs_dice/segformer-b0-satelite/checkpoint-53000)... Done. 0.1s
+Saved evaluation predictions to: outputs_dice/eval_predict/step_53500
+Saved evaluation predictions to: outputs_dice/eval_predict/step_54000
+[34m[1mwandb[0m: Adding directory to artifact (./outputs_dice/segformer-b0-satelite/checkpoint-54000)... Done. 0.1s
+Saved evaluation predictions to: outputs_dice/eval_predict/step_54500
+Saved evaluation predictions to: outputs_dice/eval_predict/step_55000
+[34m[1mwandb[0m: Adding directory to artifact (./outputs_dice/segformer-b0-satelite/checkpoint-55000)... Done. 0.1s
+Saved evaluation predictions to: outputs_dice/eval_predict/step_55500
+Saved evaluation predictions to: outputs_dice/eval_predict/step_56000
+[34m[1mwandb[0m: Adding directory to artifact (./outputs_dice/segformer-b0-satelite/checkpoint-56000)... Done. 0.1s
+Saved evaluation predictions to: outputs_dice/eval_predict/step_56500
+Saved evaluation predictions to: outputs_dice/eval_predict/step_57000
+[34m[1mwandb[0m: Adding directory to artifact (./outputs_dice/segformer-b0-satelite/checkpoint-57000)... Done. 0.1s
+Saved evaluation predictions to: outputs_dice/eval_predict/step_57500
+Saved evaluation predictions to: outputs_dice/eval_predict/step_58000
+[34m[1mwandb[0m: Adding directory to artifact (./outputs_dice/segformer-b0-satelite/checkpoint-58000)... Done. 0.1s
+Saved evaluation predictions to: outputs_dice/eval_predict/step_58500
+Saved evaluation predictions to: outputs_dice/eval_predict/step_59000
+[34m[1mwandb[0m: Adding directory to artifact (./outputs_dice/segformer-b0-satelite/checkpoint-59000)... Done. 0.1s
+Saved evaluation predictions to: outputs_dice/eval_predict/step_59500
+Saved evaluation predictions to: outputs_dice/eval_predict/step_60000
+[34m[1mwandb[0m: Adding directory to artifact (./outputs_dice/segformer-b0-satelite/checkpoint-60000)... Done. 0.1s
+Saved evaluation predictions to: outputs_dice/eval_predict/step_60500
+Saved evaluation predictions to: outputs_dice/eval_predict/step_61000
+[34m[1mwandb[0m: Adding directory to artifact (./outputs_dice/segformer-b0-satelite/checkpoint-61000)... Done. 0.1s
+Saved evaluation predictions to: outputs_dice/eval_predict/step_61500
+Saved evaluation predictions to: outputs_dice/eval_predict/step_62000
+[34m[1mwandb[0m: Adding directory to artifact (./outputs_dice/segformer-b0-satelite/checkpoint-62000)... Done. 0.1s
+Saved evaluation predictions to: outputs_dice/eval_predict/step_62500
+Saved evaluation predictions to: outputs_dice/eval_predict/step_63000
+[34m[1mwandb[0m: Adding directory to artifact (./outputs_dice/segformer-b0-satelite/checkpoint-63000)... Done. 0.1s
+Saved evaluation predictions to: outputs_dice/eval_predict/step_63500
+Saved evaluation predictions to: outputs_dice/eval_predict/step_64000
+[34m[1mwandb[0m: Adding directory to artifact (./outputs_dice/segformer-b0-satelite/checkpoint-64000)... Done. 0.1s
+Saved evaluation predictions to: outputs_dice/eval_predict/step_64500
+Saved evaluation predictions to: outputs_dice/eval_predict/step_65000
+[34m[1mwandb[0m: Adding directory to artifact (./outputs_dice/segformer-b0-satelite/checkpoint-65000)... Done. 0.1s
+Saved evaluation predictions to: outputs_dice/eval_predict/step_65500
+Saved evaluation predictions to: outputs_dice/eval_predict/step_66000
+[34m[1mwandb[0m: Adding directory to artifact (./outputs_dice/segformer-b0-satelite/checkpoint-66000)... Done. 0.1s
+Saved evaluation predictions to: outputs_dice/eval_predict/step_66500
+Saved evaluation predictions to: outputs_dice/eval_predict/step_67000
+[34m[1mwandb[0m: Adding directory to artifact (./outputs_dice/segformer-b0-satelite/checkpoint-67000)... Done. 0.1s
+Saved evaluation predictions to: outputs_dice/eval_predict/step_67500
+Saved evaluation predictions to: outputs_dice/eval_predict/step_68000
+[34m[1mwandb[0m: Adding directory to artifact (./outputs_dice/segformer-b0-satelite/checkpoint-68000)... Done. 0.1s
+Saved evaluation predictions to: outputs_dice/eval_predict/step_68500
+Saved evaluation predictions to: outputs_dice/eval_predict/step_69000
+[34m[1mwandb[0m: Adding directory to artifact (./outputs_dice/segformer-b0-satelite/checkpoint-69000)... Done. 0.1s
+Saved evaluation predictions to: outputs_dice/eval_predict/step_69500
+Saved evaluation predictions to: outputs_dice/eval_predict/step_70000
+[34m[1mwandb[0m: Adding directory to artifact (./outputs_dice/segformer-b0-satelite/checkpoint-70000)... Done. 0.1s
+Saved evaluation predictions to: outputs_dice/eval_predict/step_70500
+Saved evaluation predictions to: outputs_dice/eval_predict/step_71000
+[34m[1mwandb[0m: Adding directory to artifact (./outputs_dice/segformer-b0-satelite/checkpoint-71000)... Done. 0.1s
+Saved evaluation predictions to: outputs_dice/eval_predict/step_71500
+Saved evaluation predictions to: outputs_dice/eval_predict/step_72000
+[34m[1mwandb[0m: Adding directory to artifact (./outputs_dice/segformer-b0-satelite/checkpoint-72000)... Done. 0.1s
+Saved evaluation predictions to: outputs_dice/eval_predict/step_72500
+Saved evaluation predictions to: outputs_dice/eval_predict/step_73000
+[34m[1mwandb[0m: Adding directory to artifact (./outputs_dice/segformer-b0-satelite/checkpoint-73000)... Done. 0.1s
+Saved evaluation predictions to: outputs_dice/eval_predict/step_73500
+Saved evaluation predictions to: outputs_dice/eval_predict/step_74000
+[34m[1mwandb[0m: Adding directory to artifact (./outputs_dice/segformer-b0-satelite/checkpoint-74000)... Done. 0.1s
+Saved evaluation predictions to: outputs_dice/eval_predict/step_74500
+Saved evaluation predictions to: outputs_dice/eval_predict/step_75000
+[34m[1mwandb[0m: Adding directory to artifact (./outputs_dice/segformer-b0-satelite/checkpoint-75000)... Done. 0.1s
+Saved evaluation predictions to: outputs_dice/eval_predict/step_75500
+Saved evaluation predictions to: outputs_dice/eval_predict/step_76000
+[34m[1mwandb[0m: Adding directory to artifact (./outputs_dice/segformer-b0-satelite/checkpoint-76000)... Done. 0.1s
+Saved evaluation predictions to: outputs_dice/eval_predict/step_76500
+Saved evaluation predictions to: outputs_dice/eval_predict/step_77000
+[34m[1mwandb[0m: Adding directory to artifact (./outputs_dice/segformer-b0-satelite/checkpoint-77000)... Done. 0.1s
+Saved evaluation predictions to: outputs_dice/eval_predict/step_77500
+Saved evaluation predictions to: outputs_dice/eval_predict/step_78000
+[34m[1mwandb[0m: Adding directory to artifact (./outputs_dice/segformer-b0-satelite/checkpoint-78000)... Done. 0.1s
+Saved evaluation predictions to: outputs_dice/eval_predict/step_78500
+Saved evaluation predictions to: outputs_dice/eval_predict/step_79000
+[34m[1mwandb[0m: Adding directory to artifact (./outputs_dice/segformer-b0-satelite/checkpoint-79000)... Done. 0.1s
+Could not locate the best model at outputs_dice/segformer-b0-satelite/checkpoint-13500/pytorch_model.bin, if you are running a distributed training on multiple nodes, you should activate `--save_on_each_node`.
+WARNING:accelerate.utils.other:Detected kernel version 5.4.210, which is below the recommended minimum of 5.5.0; this can cause the process to hang. It is recommended to upgrade the kernel to the minimum version or higher.

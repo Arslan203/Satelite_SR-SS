@@ -1,0 +1,11 @@
+{"time":"2025-03-19T01:30:42.937776005+03:00","level":"INFO","msg":"main: starting server","port-filename":"/var/tmp/tmpghczpny7/port-443770.txt","pid":443770,"log-level":0,"disable-analytics":false,"shutdown-on-parent-exit":false}
+{"time":"2025-03-19T01:30:42.943212126+03:00","level":"INFO","msg":"server is running","addr":{"IP":"127.0.0.1","Port":45537,"Zone":""}}
+{"time":"2025-03-19T01:30:42.943377875+03:00","level":"INFO","msg":"Will exit if parent process dies.","ppid":443770}
+{"time":"2025-03-19T01:30:43.114255547+03:00","level":"INFO","msg":"connection: ManageConnectionData: new connection created","id":"127.0.0.1:59442"}
+{"time":"2025-03-19T01:30:43.503587586+03:00","level":"INFO","msg":"handleInformInit: received","streamId":"jelks638","id":"127.0.0.1:59442"}
+{"time":"2025-03-19T01:30:43.71339817+03:00","level":"INFO","msg":"handleInformInit: stream started","streamId":"jelks638","id":"127.0.0.1:59442"}
+{"time":"2025-03-19T01:41:37.58728893+03:00","level":"INFO","msg":"handleInformTeardown: server teardown initiated","id":"127.0.0.1:59442"}
+{"time":"2025-03-19T01:41:37.587480878+03:00","level":"INFO","msg":"server is shutting down"}
+{"time":"2025-03-19T01:41:37.587460558+03:00","level":"INFO","msg":"connection: closing","id":"127.0.0.1:59442"}
+{"time":"2025-03-19T01:41:37.587563667+03:00","level":"INFO","msg":"connection: closed successfully","id":"127.0.0.1:59442"}
+{"time":"2025-03-19T01:41:39.822473146+03:00","level":"INFO","msg":"Parent process exited, terminating service process."}

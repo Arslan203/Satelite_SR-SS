@@ -1,0 +1,7 @@
+{"time":"2025-04-06T18:24:39.002151529+03:00","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/neos/vkr/wandb/run-20250406_182438-ryl1x64u/logs/debug-core.log"}
+{"time":"2025-04-06T18:24:39.26350174+03:00","level":"INFO","msg":"created new stream","id":"ryl1x64u"}
+{"time":"2025-04-06T18:24:39.2635464+03:00","level":"INFO","msg":"stream: started","id":"ryl1x64u"}
+{"time":"2025-04-06T18:24:39.265337772+03:00","level":"INFO","msg":"handler: started","stream_id":"ryl1x64u"}
+{"time":"2025-04-06T18:24:39.265379292+03:00","level":"INFO","msg":"writer: Do: started","stream_id":"ryl1x64u"}
+{"time":"2025-04-06T18:24:39.265731751+03:00","level":"INFO","msg":"sender: started","stream_id":"ryl1x64u"}
+{"time":"2025-04-06T18:24:39.792772065+03:00","level":"INFO","msg":"Starting system monitor"}

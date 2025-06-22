@@ -1,0 +1,18 @@
+{"time":"2025-03-18T20:37:13.174956094+03:00","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/neos/vkr/wandb/run-20250318_203713-xiy54pmq/logs/debug-core.log"}
+{"time":"2025-03-18T20:37:13.388152904+03:00","level":"INFO","msg":"created new stream","id":"xiy54pmq"}
+{"time":"2025-03-18T20:37:13.388224094+03:00","level":"INFO","msg":"stream: started","id":"xiy54pmq"}
+{"time":"2025-03-18T20:37:13.388330544+03:00","level":"INFO","msg":"writer: Do: started","stream_id":"xiy54pmq"}
+{"time":"2025-03-18T20:37:13.388409494+03:00","level":"INFO","msg":"sender: started","stream_id":"xiy54pmq"}
+{"time":"2025-03-18T20:37:13.388513444+03:00","level":"INFO","msg":"handler: started","stream_id":"xiy54pmq"}
+{"time":"2025-03-18T20:37:13.820999324+03:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-18T20:38:24.521173744+03:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-18T20:38:26.687813374+03:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-18T20:38:35.436411814+03:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-18T20:38:52.210408474+03:00","level":"INFO","msg":"stream: closing","id":"xiy54pmq"}
+{"time":"2025-03-18T20:38:52.210462434+03:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-18T20:38:52.211781244+03:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-18T20:38:53.313235504+03:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-18T20:38:53.547354984+03:00","level":"INFO","msg":"handler: closed","stream_id":"xiy54pmq"}
+{"time":"2025-03-18T20:38:53.547423894+03:00","level":"INFO","msg":"sender: closed","stream_id":"xiy54pmq"}
+{"time":"2025-03-18T20:38:53.547420574+03:00","level":"INFO","msg":"writer: Close: closed","stream_id":"xiy54pmq"}
+{"time":"2025-03-18T20:38:53.547602054+03:00","level":"INFO","msg":"stream: closed","id":"xiy54pmq"}

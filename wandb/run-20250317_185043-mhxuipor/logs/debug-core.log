@@ -1,0 +1,11 @@
+{"time":"2025-03-17T18:50:42.746691644+03:00","level":"INFO","msg":"main: starting server","port-filename":"/var/tmp/tmpz_xmy20b/port-2547514.txt","pid":2547514,"log-level":0,"disable-analytics":false,"shutdown-on-parent-exit":false}
+{"time":"2025-03-17T18:50:42.750475474+03:00","level":"INFO","msg":"Will exit if parent process dies.","ppid":2547514}
+{"time":"2025-03-17T18:50:42.750409704+03:00","level":"INFO","msg":"server is running","addr":{"IP":"127.0.0.1","Port":41749,"Zone":""}}
+{"time":"2025-03-17T18:50:42.919199074+03:00","level":"INFO","msg":"connection: ManageConnectionData: new connection created","id":"127.0.0.1:58098"}
+{"time":"2025-03-17T18:50:43.330762974+03:00","level":"INFO","msg":"handleInformInit: received","streamId":"mhxuipor","id":"127.0.0.1:58098"}
+{"time":"2025-03-17T18:50:43.544096144+03:00","level":"INFO","msg":"handleInformInit: stream started","streamId":"mhxuipor","id":"127.0.0.1:58098"}
+{"time":"2025-03-17T22:38:15.721991364+03:00","level":"INFO","msg":"handleInformTeardown: server teardown initiated","id":"127.0.0.1:58098"}
+{"time":"2025-03-17T22:38:15.722152024+03:00","level":"INFO","msg":"connection: closing","id":"127.0.0.1:58098"}
+{"time":"2025-03-17T22:38:15.722196084+03:00","level":"INFO","msg":"server is shutting down"}
+{"time":"2025-03-17T22:38:15.722325894+03:00","level":"INFO","msg":"connection: closed successfully","id":"127.0.0.1:58098"}
+{"time":"2025-03-17T22:38:16.919872894+03:00","level":"INFO","msg":"Parent process exited, terminating service process."}

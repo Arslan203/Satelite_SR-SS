@@ -1,0 +1,6 @@
+{"time":"2025-03-18T05:04:46.424013774+03:00","level":"INFO","msg":"main: starting server","port-filename":"/var/tmp/tmpjcntvxa2/port-830714.txt","pid":830714,"log-level":0,"disable-analytics":false,"shutdown-on-parent-exit":false}
+{"time":"2025-03-18T05:04:46.426922284+03:00","level":"INFO","msg":"Will exit if parent process dies.","ppid":830714}
+{"time":"2025-03-18T05:04:46.426877184+03:00","level":"INFO","msg":"server is running","addr":{"IP":"127.0.0.1","Port":35165,"Zone":""}}
+{"time":"2025-03-18T05:04:46.593020984+03:00","level":"INFO","msg":"connection: ManageConnectionData: new connection created","id":"127.0.0.1:56486"}
+{"time":"2025-03-18T05:04:47.025470134+03:00","level":"INFO","msg":"handleInformInit: received","streamId":"a6bve8rs","id":"127.0.0.1:56486"}
+{"time":"2025-03-18T05:04:47.236993364+03:00","level":"INFO","msg":"handleInformInit: stream started","streamId":"a6bve8rs","id":"127.0.0.1:56486"}

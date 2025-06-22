@@ -1,0 +1,12 @@
+{"time":"2025-04-15T16:47:25.520424037+03:00","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/neos/vkr/wandb/run-20250415_164725-qwzkfpll/logs/debug-core.log"}
+{"time":"2025-04-15T16:47:25.630846299+03:00","level":"INFO","msg":"created new stream","id":"qwzkfpll"}
+{"time":"2025-04-15T16:47:25.630912579+03:00","level":"INFO","msg":"stream: started","id":"qwzkfpll"}
+{"time":"2025-04-15T16:47:25.630975059+03:00","level":"INFO","msg":"writer: Do: started","stream_id":"qwzkfpll"}
+{"time":"2025-04-15T16:47:25.630992469+03:00","level":"INFO","msg":"handler: started","stream_id":"qwzkfpll"}
+{"time":"2025-04-15T16:47:25.631045819+03:00","level":"INFO","msg":"sender: started","stream_id":"qwzkfpll"}
+{"time":"2025-04-15T16:47:25.967960883+03:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-16T08:00:05.594132355+03:00","level":"INFO","msg":"api: retrying HTTP error","status":502,"url":"https://api.wandb.ai/files/course_sr/huggingface/qwzkfpll/file_stream","body":"\n<html><head>\n<meta http-equiv=\"content-type\" content=\"text/html;charset=utf-8\">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n"}
+{"time":"2025-04-16T15:01:01.38115275+03:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-16T20:59:31.605819094+03:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/course_sr/huggingface/qwzkfpll/file_stream\": dial tcp: lookup api.wandb.ai on [2a02:6b8::1:1]:53: no such host"}
+{"time":"2025-04-16T21:44:49.066400007+03:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": context deadline exceeded"}
+{"time":"2025-04-16T23:58:27.103600021+03:00","level":"INFO","msg":"api: retrying HTTP error","status":502,"url":"https://api.wandb.ai/files/course_sr/huggingface/qwzkfpll/file_stream","body":"\n<html><head>\n<meta http-equiv=\"content-type\" content=\"text/html;charset=utf-8\">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n"}
